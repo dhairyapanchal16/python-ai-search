@@ -11,7 +11,6 @@ A simple yet elegant desktop GUI app built using **Python Tkinter**, which allow
 - 🧠 Built with beginner-friendly Python code
 - 🎨 Modern, minimal GUI using `tkint
 
-- 
 ## 🛠️ Technologies Used
 
 - Python 3
